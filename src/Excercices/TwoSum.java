@@ -1,3 +1,5 @@
+package Excercices;
+
 import java.util.HashMap;
 import java.util.Map;
 
